@@ -13,11 +13,10 @@ function App() {
       <header className="App-header">
         <h1>React Debugging</h1>
         <br />
-        <a href="https://www.shecodes.io" target="_blank" rel="noreferrer">
-          Workshops
+        <a href="https://github.com/Faith-Gi" target="_blank" rel="noreferrer">
+          Open Sourced on Github
         </a>
         <Weather />
-        
       </header>
     </div>
   );
